@@ -1,17 +1,17 @@
 <p align="right">
-  <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README.md"><strong>🇺🇸 English</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md"><strong>🇨🇳 中文</strong></a>
+  <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README.md" target="_blank" rel="noopener noreferrer"><strong>🇺🇸 English</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md" target="_blank" rel="noopener noreferrer"><strong>🇨🇳 中文</strong></a>
 </p>
 
-<h1 align="center">👋 你好，我是Chinfeng（Chinfeng Pan）</h1>
+<h1 align="center">👋 你好，我是潘近峰（Chinfeng Pan）</h1>
 <h3 align="center">全栈工程师 · 微服务架构 · 15 年+ 经验</h3>
 
 <p align="center">
-  <a href="https://chinfeng.world"><img src="https://img.shields.io/badge/Website-chinfeng.world-FF7139?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
-  <a href="mailto:chinfeng.pan@gmail.com"><img src="https://img.shields.io/badge/Email-chinfeng.pan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://blog.csdn.net/buyaore_wo"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="Blog"/></a>
-  <a href="https://apps.apple.com/app/id6754932287"><img src="https://img.shields.io/badge/App_Store-Notabook-8B5CF6?style=flat-square&logo=appstore&logoColor=white" alt="Notabook on App Store"/></a>
-  <a href="https://apps.apple.com/app/id6760341453"><img src="https://img.shields.io/badge/App_Store-Lightme-F59E0B?style=flat-square&logo=appstore&logoColor=white" alt="Lightme on App Store"/></a>
-  <a href="https://apps.apple.com/app/id6780922944"><img src="https://img.shields.io/badge/App_Store-Cleaner_X-06B6D4?style=flat-square&logo=appstore&logoColor=white" alt="Cleaner X on App Store"/></a>
+  <a href="https://chinfeng.world" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-chinfeng.world-FF7139?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
+  <a href="mailto:chinfeng.pan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-chinfeng.pan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://blog.csdn.net/buyaore_wo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="Blog"/></a>
+  <a href="https://apps.apple.com/app/id6754932287" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App_Store-Notabook-8B5CF6?style=flat-square&logo=appstore&logoColor=white" alt="Notabook on App Store"/></a>
+  <a href="https://apps.apple.com/app/id6760341453" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App_Store-Lightme-F59E0B?style=flat-square&logo=appstore&logoColor=white" alt="Lightme on App Store"/></a>
+  <a href="https://apps.apple.com/app/id6780922944" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App_Store-Cleaner_X-06B6D4?style=flat-square&logo=appstore&logoColor=white" alt="Cleaner X on App Store"/></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ### 📱 Notabook — AI 笔记助手
 
-[🌐 notabook.app](https://notabook.app) · [📲 App Store](https://apps.apple.com/app/id6754932287)
+<a href="https://notabook.app" target="_blank" rel="noopener noreferrer">🌐 notabook.app</a> · <a href="https://apps.apple.com/app/id6754932287" target="_blank" rel="noopener noreferrer">📲 App Store</a>
 
 AI 笔记应用，支持语音转录与智能摘要。基于 **React Native**（跨平台）+ **Spring Boot** 后端。独立完成客户端、服务端开发及服务器部署。
 
@@ -50,13 +50,13 @@ iOS & Android 已上架 **App Store & Google Play**
 
 ### 🧹 Cleaner X — 存储清理工具
 
-[🌐 cleanerx.app](https://cleanerx.app) · [📲 App Store](https://apps.apple.com/app/id6780922944)
+<a href="https://cleanerx.app" target="_blank" rel="noopener noreferrer">🌐 cleanerx.app</a> · <a href="https://apps.apple.com/app/id6780922944" target="_blank" rel="noopener noreferrer">📲 App Store</a>
 
 基于端侧 AI 的 iOS 智能清理工具，帮助用户整理相册、清理存储空间。
 
 ### 💡 LightMe Cam — 自拍美颜相机
 
-[🌐 lightme.love](https://lightme.love) · [📲 App Store](https://apps.apple.com/app/id6760341453)
+<a href="https://lightme.love" target="_blank" rel="noopener noreferrer">🌐 lightme.love</a> · <a href="https://apps.apple.com/app/id6760341453" target="_blank" rel="noopener noreferrer">📲 App Store</a>
 
 独立设计、开发并上架的 App，完整产品交付。
 
@@ -133,13 +133,13 @@ iOS & Android 已上架 **App Store & Google Play**
 
 ## 📫 联系我
 
-- 🌐 **个人网站**: [chinfeng.world](https://chinfeng.world)
-- 📧 **邮箱**: [chinfeng.pan@gmail.com](mailto:chinfeng.pan@gmail.com)
-- 📝 **博客**: [CSDN](https://blog.csdn.net/buyaore_wo)
+- 🌐 **个人网站**: <a href="https://chinfeng.world" target="_blank" rel="noopener noreferrer">chinfeng.world</a>
+- 📧 **邮箱**: <a href="mailto:chinfeng.pan@gmail.com" target="_blank" rel="noopener noreferrer">chinfeng.pan@gmail.com</a>
+- 📝 **博客**: <a href="https://blog.csdn.net/buyaore_wo" target="_blank" rel="noopener noreferrer">CSDN</a>
 - 🛠️ **我的 App**:
-  - [Notabook - AI Note Taker](https://apps.apple.com/app/id6754932287)
-  - [LightMe Cam - Selfie Mood Beauty](https://apps.apple.com/app/id6760341453)
-  - [Cleaner X - Clean Up Storage](https://apps.apple.com/app/id6780922944)
+  - <a href="https://apps.apple.com/app/id6754932287" target="_blank" rel="noopener noreferrer">Notabook - AI Note Taker</a>
+  - <a href="https://apps.apple.com/app/id6760341453" target="_blank" rel="noopener noreferrer">LightMe Cam - Selfie Mood Beauty</a>
+  - <a href="https://apps.apple.com/app/id6780922944" target="_blank" rel="noopener noreferrer">Cleaner X - Clean Up Storage</a>
 
 ---
 
