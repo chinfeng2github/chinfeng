@@ -2,7 +2,7 @@
   <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README.md"><strong>🇺🇸 English</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md"><strong>🇨🇳 中文</strong></a>
 </p>
 
-<h1 align="center">👋 你好，我是潘近峰（Chinfeng Pan）</h1>
+<h1 align="center">👋 你好，我是Chinfeng（Chinfeng Pan）</h1>
 <h3 align="center">全栈工程师 · 微服务架构 · 15 年+ 经验</h3>
 
 <p align="center">
