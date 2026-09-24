@@ -5,9 +5,9 @@
   <a href="https://chinfeng.world"><img src="https://img.shields.io/badge/Website-chinfeng.world-FF7139?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
   <a href="mailto:chinfeng.pan@gmail.com"><img src="https://img.shields.io/badge/Email-chinfeng.pan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://blog.csdn.net/buyaore_wo"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="Blog"/></a>
-  <a href="https://notabook.app"><img src="https://img.shields.io/badge/App-Notabook-8B5CF6?style=flat-square&logo=apple&logoColor=white" alt="Notabook"/></a>
-  <a href="https://lightme.love"><img src="https://img.shields.io/badge/App-Lightme-F59E0B?style=flat-square&logo=apple&logoColor=white" alt="Lightme"/></a>
-  <a href="https://cleanerx.app"><img src="https://img.shields.io/badge/App-Cleaner_X-06B6D4?style=flat-square&logo=apple&logoColor=white" alt="Cleaner X"/></a>
+  <a href="https://apps.apple.com/app/id6754932287"><img src="https://img.shields.io/badge/App_Store-Notabook-8B5CF6?style=flat-square&logo=appstore&logoColor=white" alt="Notabook on App Store"/></a>
+  <a href="https://apps.apple.com/app/id6760341453"><img src="https://img.shields.io/badge/App_Store-Lightme-F59E0B?style=flat-square&logo=appstore&logoColor=white" alt="Lightme on App Store"/></a>
+  <a href="https://apps.apple.com/app/id6780922944"><img src="https://img.shields.io/badge/App_Store-Cleaner_X-06B6D4?style=flat-square&logo=appstore&logoColor=white" alt="Cleaner X on App Store"/></a>
 </p>
 
 ---
@@ -32,9 +32,9 @@ I love building things end-to-end — from architecting distributed backends and
 
 ## 🚀 Featured Projects
 
-### 📱 Notabook AI — AI-Powered Note-Taking App
+### 📱 Notabook — AI Note Taker
 
-[🌐 notabook.app](https://notabook.app)
+[🌐 notabook.app](https://notabook.app) · [📲 App Store](https://apps.apple.com/app/id6754932287)
 
 AI-powered note-taking app with voice transcription and intelligent summarization. Built with **React Native** (cross-platform) + **Spring Boot** backend. Independently developed and deployed — from client code to server infrastructure.
 
@@ -44,15 +44,15 @@ iOS & Android on **App Store & Google Play**
 
 A real-time 1v1 video chat platform serving 10+ server nodes. Led architecture design, infrastructure automation (Terraform + Ansible), ELK-based analytics, and cross-platform client development with Vue + Tauri2.
 
-### 🧹 Cleaner X — iOS Smart Cleanup Tool
+### 🧹 Cleaner X — Clean Up Storage
 
-[🌐 cleanerx.app](https://cleanerx.app)
+[🌐 cleanerx.app](https://cleanerx.app) · [📲 App Store](https://apps.apple.com/app/id6780922944)
 
 On-device AI-powered photo album organization and storage cleanup tool. Leverages edge AI to help users manage their photo libraries intelligently.
 
-### 💡 Lightme
+### 💡 LightMe Cam — Selfie Mood Beauty
 
-[🌐 lightme.love](https://lightme.love)
+[🌐 lightme.love](https://lightme.love) · [📲 App Store](https://apps.apple.com/app/id6760341453)
 
 Another independently designed, developed, and published app — full-cycle product delivery.
 
@@ -133,9 +133,9 @@ Another independently designed, developed, and published app — full-cycle prod
 - 📧 **Email**: [chinfeng.pan@gmail.com](mailto:chinfeng.pan@gmail.com)
 - 📝 **Blog**: [CSDN](https://blog.csdn.net/buyaore_wo)
 - 🛠️ **My Apps**:
-  - [Notabook](https://notabook.app) — AI Note-Taking
-  - [Lightme](https://lightme.love) —
-  - [Cleaner X](https://cleanerx.app) — iOS Smart Cleanup
+  - [Notabook - AI Note Taker](https://apps.apple.com/app/id6754932287)
+  - [LightMe Cam - Selfie Mood Beauty](https://apps.apple.com/app/id6760341453)
+  - [Cleaner X - Clean Up Storage](https://apps.apple.com/app/id6780922944)
 
 ---
 
