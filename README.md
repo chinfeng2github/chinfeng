@@ -1,5 +1,9 @@
+<p align="right">
+  <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md"><strong>🇨🇳 中文</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README.md"><strong>🇺🇸 English</strong></a>
+</p>
+
 <h1 align="center">👋 Hi, I'm Chinfeng Pan</h1>
-<h3 align="center">Full-Stack Engineer | Microservice Architecture | 15+ Years Experience</h3>
+<h3 align="center">Full-Stack Engineer · Microservice Architecture · 15+ Years Experience</h3>
 
 <p align="center">
   <a href="https://chinfeng.world"><img src="https://img.shields.io/badge/Website-chinfeng.world-FF7139?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
