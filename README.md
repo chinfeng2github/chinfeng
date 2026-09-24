@@ -1,17 +1,17 @@
 <p align="right">
-  <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md"><strong>🇨🇳 中文</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README.md"><strong>🇺🇸 English</strong></a>
+  <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md" target="_blank" rel="noopener noreferrer"><strong>🇨🇳 中文</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/" target="_blank" rel="noopener noreferrer"><strong>🇺🇸 English</strong></a>
 </p>
 
 <h1 align="center">👋 Hi, I'm Chinfeng Pan</h1>
 <h3 align="center">Full-Stack Engineer · Microservice Architecture · 15+ Years Experience</h3>
 
 <p align="center">
-  <a href="https://chinfeng.world"><img src="https://img.shields.io/badge/Website-chinfeng.world-FF7139?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
-  <a href="mailto:chinfeng.pan@gmail.com"><img src="https://img.shields.io/badge/Email-chinfeng.pan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://blog.csdn.net/buyaore_wo"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="Blog"/></a>
-  <a href="https://apps.apple.com/app/id6754932287"><img src="https://img.shields.io/badge/App_Store-Notabook-8B5CF6?style=flat-square&logo=appstore&logoColor=white" alt="Notabook on App Store"/></a>
-  <a href="https://apps.apple.com/app/id6760341453"><img src="https://img.shields.io/badge/App_Store-Lightme-F59E0B?style=flat-square&logo=appstore&logoColor=white" alt="Lightme on App Store"/></a>
-  <a href="https://apps.apple.com/app/id6780922944"><img src="https://img.shields.io/badge/App_Store-Cleaner_X-06B6D4?style=flat-square&logo=appstore&logoColor=white" alt="Cleaner X on App Store"/></a>
+  <a href="https://chinfeng.world" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-chinfeng.world-FF7139?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
+  <a href="mailto:chinfeng.pan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-chinfeng.pan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://blog.csdn.net/buyaore_wo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="Blog"/></a>
+  <a href="https://apps.apple.com/app/id6754932287" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App_Store-Notabook-8B5CF6?style=flat-square&logo=appstore&logoColor=white" alt="Notabook on App Store"/></a>
+  <a href="https://apps.apple.com/app/id6760341453" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App_Store-Lightme-F59E0B?style=flat-square&logo=appstore&logoColor=white" alt="Lightme on App Store"/></a>
+  <a href="https://apps.apple.com/app/id6780922944" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App_Store-Cleaner_X-06B6D4?style=flat-square&logo=appstore&logoColor=white" alt="Cleaner X on App Store"/></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ I love building things end-to-end — from architecting distributed backends and
 
 ### 📱 Notabook — AI Note Taker
 
-[🌐 notabook.app](https://notabook.app) · [📲 App Store](https://apps.apple.com/app/id6754932287)
+<a href="https://notabook.app" target="_blank" rel="noopener noreferrer">🌐 notabook.app</a> · <a href="https://apps.apple.com/app/id6754932287" target="_blank" rel="noopener noreferrer">📲 App Store</a>
 
 AI-powered note-taking app with voice transcription and intelligent summarization. Built with **React Native** (cross-platform) + **Spring Boot** backend. Independently developed and deployed — from client code to server infrastructure.
 
@@ -50,13 +50,13 @@ A real-time 1v1 video chat platform serving 10+ server nodes. Led architecture d
 
 ### 🧹 Cleaner X — Clean Up Storage
 
-[🌐 cleanerx.app](https://cleanerx.app) · [📲 App Store](https://apps.apple.com/app/id6780922944)
+<a href="https://cleanerx.app" target="_blank" rel="noopener noreferrer">🌐 cleanerx.app</a> · <a href="https://apps.apple.com/app/id6780922944" target="_blank" rel="noopener noreferrer">📲 App Store</a>
 
 On-device AI-powered photo album organization and storage cleanup tool. Leverages edge AI to help users manage their photo libraries intelligently.
 
 ### 💡 LightMe Cam — Selfie Mood Beauty
 
-[🌐 lightme.love](https://lightme.love) · [📲 App Store](https://apps.apple.com/app/id6760341453)
+<a href="https://lightme.love" target="_blank" rel="noopener noreferrer">🌐 lightme.love</a> · <a href="https://apps.apple.com/app/id6760341453" target="_blank" rel="noopener noreferrer">📲 App Store</a>
 
 Another independently designed, developed, and published app — full-cycle product delivery.
 
@@ -133,13 +133,13 @@ Another independently designed, developed, and published app — full-cycle prod
 
 ## 📫 Get In Touch
 
-- 🌐 **Website**: [chinfeng.world](https://chinfeng.world)
-- 📧 **Email**: [chinfeng.pan@gmail.com](mailto:chinfeng.pan@gmail.com)
-- 📝 **Blog**: [CSDN](https://blog.csdn.net/buyaore_wo)
+- 🌐 **Website**: <a href="https://chinfeng.world" target="_blank" rel="noopener noreferrer">chinfeng.world</a>
+- 📧 **Email**: <a href="mailto:chinfeng.pan@gmail.com" target="_blank" rel="noopener noreferrer">chinfeng.pan@gmail.com</a>
+- 📝 **Blog**: <a href="https://blog.csdn.net/buyaore_wo" target="_blank" rel="noopener noreferrer">CSDN</a>
 - 🛠️ **My Apps**:
-  - [Notabook - AI Note Taker](https://apps.apple.com/app/id6754932287)
-  - [LightMe Cam - Selfie Mood Beauty](https://apps.apple.com/app/id6760341453)
-  - [Cleaner X - Clean Up Storage](https://apps.apple.com/app/id6780922944)
+  - <a href="https://apps.apple.com/app/id6754932287" target="_blank" rel="noopener noreferrer">Notabook - AI Note Taker</a>
+  - <a href="https://apps.apple.com/app/id6760341453" target="_blank" rel="noopener noreferrer">LightMe Cam - Selfie Mood Beauty</a>
+  - <a href="https://apps.apple.com/app/id6780922944" target="_blank" rel="noopener noreferrer">Cleaner X - Clean Up Storage</a>
 
 ---
 
