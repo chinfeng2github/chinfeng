@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README.md" target="_blank" rel="noopener noreferrer"><strong>🇺🇸 English</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md" target="_blank" rel="noopener noreferrer"><strong>🇨🇳 中文</strong></a>
+  <a href="https://github.com/chinfeng2github/chinfeng/" target="_blank" rel="noopener noreferrer"><strong>🇺🇸 English</strong></a> · <a href="https://github.com/chinfeng2github/chinfeng/blob/main/README_CN.md" target="_blank" rel="noopener noreferrer"><strong>🇨🇳 中文</strong></a>
 </p>
 
 <h1 align="center">👋 你好，我是潘近峰（Chinfeng Pan）</h1>
